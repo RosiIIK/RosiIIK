@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RosiIIK / Rosi Ilieva-Kitova
-- 👀 I’m an Aeronautical Engineer with more than 10 years expirience in Aviation and new passion - coding 
+- 👀 I’m an Aeronautical Engineer with more than 11 years expirience in Aviation and new passion - coding 
 - 🌱 I’m currently learning Python @ SoftUni
 - 📫 How to reach me : via LinkedIN - www.linkedin.com/in/rositsa-ilieva-kitova-6b0555b8
 
