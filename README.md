@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width="200"/>
-</div>
-
 - 👋 Hi, I’m @RosiIIK / Rosi Ilieva-Kitova
 - 👀 I’m an Aeronautical Engineer with more than 11 years expirience in Aviation and new passion - coding 
 - 🌱 I’m currently learning Software Engineering with Python @ SoftUni
@@ -13,3 +9,8 @@
 RosiIIK/RosiIIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### :fire: My Statistics :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RosiIIK&theme=blood&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosiIIK&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
