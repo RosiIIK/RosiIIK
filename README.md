@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RosiIIK / Rosi Ilieva-Kitova
 - 👀 I’m an Aeronautical Engineer with more than 11 years expirience in Aviation and new passion - coding 
 - 🌱 I’m currently learning Software Engineering with Python @ SoftUni
-- 📫 How to reach me: [![Linkedin: thaianebraga](https://img.shields.io/badge/-RositsaIlieva-Kitova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//rositsa-ilieva-kitova-6b0555b8/)](https://www.linkedin.com/in//rositsa-ilieva-kitova-6b0555b8//)
+- 📫 How to reach me: [![Linkedin: thaianebraga](https://img.shields.io/badge/-RositsaIlieva-Kitova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//rositsa-ilieva-kitova-6b0555b8/)](https://www.linkedin.com/in/rositsa-ilieva-kitova-6b0555b8//)
 
 
 </div>
