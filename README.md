@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Software Engineering with Python @ SoftUni
 - 📫 How to reach me: [![RositsaIlieva-Kitova](https://img.shields.io/badge/-RositsaIlieva-Kitova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//rositsa-ilieva-kitova-6b0555b8/)](https://www.linkedin.com/in/rositsa-ilieva-kitova-6b0555b8//)
 
-
+ ## You can contact with me here:
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RosiIIK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rositsa-ilieva-kitova-6b0555b8/)
 
 
 </div>
